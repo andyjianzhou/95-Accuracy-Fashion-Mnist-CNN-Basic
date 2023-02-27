@@ -3,6 +3,7 @@ On the fashion MNIST dataset, created a CNN model with TTA, and tuning to create
 With over 25 others copied and used! 
 View full description here
 
-[![Kaggle](https://img.shields.io/badge/View_on-Kaggle-blue?logo=kaggle)](https://www.kaggle.com/code/andyjianzhou/95-accuracy-fashion-mnist-cnn-basic#)
+<a href="https://www.kaggle.com/code/andyjianzhou/95-accuracy-fashion-mnist-cnn-basic#" target="_blank"><img src="https://img.shields.io/badge/View%20on%20Kaggle-1abc9c.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="View on Kaggle" /></a>
+
 
 
